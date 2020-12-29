@@ -21,5 +21,5 @@ pip install praw
 python main.py
 ```
 ### This Should open up your browser and follow the instructions on the homepage
-## PLease Star this anf floow me :-) 
-# Welcome
+## PLease Star this and follow me :-) 
+# Thank You
